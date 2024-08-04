@@ -1,6 +1,6 @@
 ## Hi there, I'm Sumeet Dipanee! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 
 ### 🚀 About Me
 
