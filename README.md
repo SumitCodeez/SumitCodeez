@@ -16,6 +16,9 @@ I’m a passionate MERN stack developer with a strong focus on frontend developm
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![ScrollTrigger](https://img.shields.io/badge/-ScrollTrigger-000000?style=flat-square&logo=gsap&logoColor=white)
 ![Locomotive Scroll](https://img.shields.io/badge/-Locomotive%20Scroll-000000?style=flat-square&logo=npm&logoColor=white)
+![Canvas](https://img.shields.io/badge/-Canvas-000000?style=flat-square&logo=html5&logoColor=white)
+![Shery.js](https://img.shields.io/badge/-Shery.js-000000?style=flat-square&logo=npm&logoColor=white)
+
 
 #### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -26,8 +29,6 @@ I’m a passionate MERN stack developer with a strong focus on frontend developm
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canvas](https://img.shields.io/badge/-Canvas-000000?style=flat-square&logo=html5&logoColor=white)
-![Shery.js](https://img.shields.io/badge/-Shery.js-000000?style=flat-square&logo=npm&logoColor=white)
 
 ### 📫 How to reach me
 - **Email:** [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sumitdeepani@gmail.com)
