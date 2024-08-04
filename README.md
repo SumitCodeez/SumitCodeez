@@ -21,6 +21,7 @@ I’m a passionate MERN stack developer with a strong focus on frontend developm
 
 
 #### Backend Development
+![EJS](https://img.shields.io/badge/-EJS-000000?style=flat-square&logo=ejs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
