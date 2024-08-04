@@ -31,6 +31,6 @@ I’m a passionate MERN stack developer with a strong focus on frontend developm
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### 📫 How to reach me
-- **Email:** [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](sumitdeepani00@gmail.com)
+- **Email:** [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sumitdeepani00@gmail.com)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumeet-dipanee-11904b295)
 - **GitHub:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SumitCodeez)
